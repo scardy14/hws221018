@@ -14,7 +14,7 @@
 </head>
 <body>
 <div class = "container pt-3">
-아이템 등록품
+아이템 등록품 홍주영꺼 차재명 수정
 </div>
 </body>
 </html>
