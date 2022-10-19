@@ -10,12 +10,12 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>지영 index</title>
 </head>
 <body>
 
 <div class="container pt-3">
-메인 ui 2
+장지영
 </div>
 
 </body>
