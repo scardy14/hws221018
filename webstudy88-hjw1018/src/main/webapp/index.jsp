@@ -21,7 +21,7 @@
 메인 ui 2 ㅁ
 >>>>>>> branch 'main' of https://github.com/scardy14/hws221018.git
 
-차재명
+차재명 1번
 </div>
 
 </body>
